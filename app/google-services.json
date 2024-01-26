@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "581445625028",
+    "firebase_url": "https://sozlukuygulamasi-e060b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sozlukuygulamasi-e060b",
+    "storage_bucket": "sozlukuygulamasi-e060b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581445625028:android:62a1a7056667106ac71591",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnIJWylvKN3P6U6YH5KxrygrlnGxXxrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
